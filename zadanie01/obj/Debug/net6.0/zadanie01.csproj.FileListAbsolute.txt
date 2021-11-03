@@ -1,0 +1,16 @@
+C:\Users\людмила\Desktop\Zadanie\zadanie01\bin\Debug\net6.0\zadanie01.exe
+C:\Users\людмила\Desktop\Zadanie\zadanie01\bin\Debug\net6.0\zadanie01.deps.json
+C:\Users\людмила\Desktop\Zadanie\zadanie01\bin\Debug\net6.0\zadanie01.runtimeconfig.json
+C:\Users\людмила\Desktop\Zadanie\zadanie01\bin\Debug\net6.0\zadanie01.dll
+C:\Users\людмила\Desktop\Zadanie\zadanie01\bin\Debug\net6.0\ref\zadanie01.dll
+C:\Users\людмила\Desktop\Zadanie\zadanie01\bin\Debug\net6.0\zadanie01.pdb
+C:\Users\людмила\Desktop\Zadanie\zadanie01\obj\Debug\net6.0\zadanie01.GlobalUsings.g.cs
+C:\Users\людмила\Desktop\Zadanie\zadanie01\obj\Debug\net6.0\zadanie01.csproj.AssemblyReference.cache
+C:\Users\людмила\Desktop\Zadanie\zadanie01\obj\Debug\net6.0\zadanie01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\людмила\Desktop\Zadanie\zadanie01\obj\Debug\net6.0\zadanie01.AssemblyInfoInputs.cache
+C:\Users\людмила\Desktop\Zadanie\zadanie01\obj\Debug\net6.0\zadanie01.AssemblyInfo.cs
+C:\Users\людмила\Desktop\Zadanie\zadanie01\obj\Debug\net6.0\zadanie01.csproj.CoreCompileInputs.cache
+C:\Users\людмила\Desktop\Zadanie\zadanie01\obj\Debug\net6.0\zadanie01.dll
+C:\Users\людмила\Desktop\Zadanie\zadanie01\obj\Debug\net6.0\ref\zadanie01.dll
+C:\Users\людмила\Desktop\Zadanie\zadanie01\obj\Debug\net6.0\zadanie01.pdb
+C:\Users\людмила\Desktop\Zadanie\zadanie01\obj\Debug\net6.0\zadanie01.genruntimeconfig.cache
